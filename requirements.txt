@@ -1,0 +1,9 @@
+opencv-python
+Pillow
+keras
+numpy
+keras-facenet
+scikit-learn
+tensorflow
+
+# Untuk versi sesuaikan dengan versi python yang digunakan
