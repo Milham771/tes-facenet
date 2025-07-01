@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv*/
+.env
+
+# Model data
+models/**
+!models/.gitkeep
+
+# Face DB
+face_db.pkl
+
+# VSCode & OS artifacts
+.vscode/
+*.DS_Store
+Thumbs.db
+
+# Ignore Pickle database (Up to you to decide)
+data.pkl
+
+# Ignore dataset folders
+dataset/
+
+# Ignore virtual environment folder
+venv-facenet/
